@@ -21,13 +21,12 @@ let handler  = async (m, { conn, usedPrefix }) => {
 ╠➥ *Total user:* ${totalreg} *user*
 ╠➥ *Uptime:* ${uptime}
 ║
-╠═〘 Donasi • Pulsa • Dana 〙 ═
-╠➥ DANA [088233832771]
-╠➥ Tri [089612698583]
-╠➥ Smartfren [088233832771]
+╠═〘 Touch And Go • Digi • 〙 ═
+╠➥ Tng [195471037]
+╠➥ Digi [0169650449]
 ║
 ║${readMore}
-╠═〘 Rules Bot Mursid 〙 ═
+╠═〘 Rules Bot X-WanzBotz 〙 ═
 ╠➥ *KAMI TIDAK BERTANGGUNG*
 ║   *JAWAB ATAS PENYALAH*
 ║   *GUNAAN BOT*
@@ -41,7 +40,7 @@ let handler  = async (m, { conn, usedPrefix }) => {
 ║ 
 ╠═ ©2022 ${package.name}
 ╠═ Scrip original by Norutomo
-╠═ Creator : Mursid
+╠═ Creator : X-WanzBotz
 ╠═ Api xsteam :St4r
 ╠═ Resta
 ╠═ Ariq
