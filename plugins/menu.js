@@ -494,7 +494,7 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
         }
         text = text.replace(new RegExp(`%(${Object.keys(replace).sort((a, b) => b.length - a.length).join`|`})`, 'g'), (_, name) => '' + replace[name])
 
-await conn.fakeReply(m.chat, 'Loading...', '0@s.whatsapp.net', 'BY MURSID (+6288233832771)', 'status@broadcast')
+await conn.fakeReply(m.chat, 'Loading...', '0@s.whatsapp.net', 'BY X-WanzBotz (+60169650449)', 'status@broadcast')
  conn.send3ButtonLoc(m.chat, await (await fetch(image)).buffer(), text.trim(), `*Runtime* *${uptime}*\n*${week} ${date}*\n*Created By* @6288233832771⁩`, 'ρємιℓιк вσт', '.owner', 'ɪɴƒᴏ X-WanzBotz', '.infomursid', 'ʀυℓєѕ', '.rules', m, { contextInfo: {
 mentionedJid: ['6288233832771@s.whatsapp.net']
 }
